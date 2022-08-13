@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif, 'Montserrat';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: scroll;
+
+}
+
+#animatedBackground {
+  width: 100%;
+  height: 140;
+  min-height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url(./Images/backgroundPacman.png);
+  background-repeat: repeat;
+  animation: animatedBackground 300s linear infinite;
+}
+
+@keyframes animatedBackground {
+  from {
+    background-position: 0 0;
+  }
+
+  to {
+    background-position: 5000px 5000px;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace, 'Montserrat', sans-serif;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+.subtitles {
+  font-size: 20px;
+}
+
+.important-text {
+  font-size: 20px;
+  color: rgb(139, 133, 44);
+}
+
+.suggestion-information {
+  position: relative;
+  top: -4px;
+}
+
+.tooltip {
+  position: relative;
+
+}
