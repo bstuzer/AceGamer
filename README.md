@@ -23,20 +23,20 @@ nodemon server.js
 Some of the pages can be seen in the following pictures:
 
 <p align="center">
-  <img src="images/readme/HomePageR.png" /><br/>
+  <img src="Documents/images/readme/HomePageR.png" /><br/>
   <em>Home page where the users are expected to specify the game to start.</em>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="images/readme/SuggestionPageR.png" /><br/>
+  <img src="Documents/images/readme/SuggestionPageR.png" /><br/>
   <em>The complete build selection page that is reached through the "New PC" path.</em>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="images/readme/SummaryPageR.png" /><br/>
+  <img src="Documents/images/readme/SummaryPageR.png" /><br/>
   <em>The summary page as seen when the user completes the "New PC" path.</em>
 </p>
