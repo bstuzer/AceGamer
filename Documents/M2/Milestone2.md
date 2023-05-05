@@ -2,9 +2,7 @@
 
 ## The Storyboard
 
-<p align="center">
-  <img src="/images//M2/Storyboard.png" />
-</p>
+![Storyboard](../images/M2/Storyboard.png)
 
 ### Description
 
